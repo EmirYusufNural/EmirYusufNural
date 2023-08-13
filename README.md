@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/emir yusuf nural" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emir yusuf nural" height="30" width="40" /></a>
 <a href="https://instagram.com/emiryusufnurall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiryusufnurall" height="30" width="40" /></a>
 <a href="https://discord.gg/EmirYusufNural#4529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EmirYusufNural#4529" height="30" width="40" /></a>
-<a href="https://medium.com/@emiryusufnural" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg](https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg)" alt="@emiryusufnural" height="30" width="40" /></a>
+<a href="https://medium.com/@emiryusufnural" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emiryusufnural" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
